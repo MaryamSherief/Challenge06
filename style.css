@@ -95,7 +95,7 @@ button:hover {
 
 @media (min-width: 375px) and (max-width: 900px) {
     body {
-        margin: 10%;
+        margin: 5%;
     }
     .wrapper {
         grid-template-columns: 1fr;
